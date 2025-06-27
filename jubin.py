@@ -1,7 +1,7 @@
 import time
 import os
 
-#comment
+#commentadded
 def intro():
     intro = [
         "    Booting Stellar Interface ⏳",
